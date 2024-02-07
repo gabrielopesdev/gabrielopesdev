@@ -1,5 +1,3 @@
-<img align="right" width="200px" style="margin-top:-20px" src="https://i.ibb.co/60kBztw/tinta-removebg-preview.png" alt="tinta-removebg-preview" border="0">
-
 ### Hello world! My name is Gabriel dos Santos 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_san_lopes_/)
