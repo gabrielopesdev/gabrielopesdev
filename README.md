@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dos-santos-lopes-190645246/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopesdeveloperweb@gmail.com?subject=&body=)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielWebDeveloper&show_icons=true&theme=radical)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielopesdev&show_icons=true&theme=radical)
 ## Technologies I'm learning to use 🚀🎓
 
 <div style="display: inline_block">
