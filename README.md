@@ -1,8 +1,8 @@
 ### Hello world! My name is Gabriel dos Santos 👋
 
-<br>
+<hr>
 
-<h3 align="left">my social networks</h3>
+<h3 align="center">my social networks</h3>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_san_lopes_/)
 [![Whatszapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5512996770403)
@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopesdeveloperweb@gmail.com?subject=&body=)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielopesdev&show_icons=true&theme=radical)
-<h3 align="left">Technologies I'm learning to use 🚀🎓</h3>
+<h3 align="center">Technologies I'm learning to use 🚀🎓</h3>
 
 <div style="display: inline_block">
     <img align= center alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
